@@ -1,0 +1,14 @@
+{
+    "description": "description of ubuntu-messaging-adn",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "ubuntu-messaging-adn": {
+            "apparmor": "ubuntu-messaging-adn.json",
+            "desktop": "ubuntu-messaging-adn.desktop"
+        }
+    },
+    "maintainer": "",
+    "name": "com.ubuntu.developer.username.ubuntu-messaging-adn",
+    "title": "ubuntu-messaging-adn",
+    "version": "0.1"
+}
